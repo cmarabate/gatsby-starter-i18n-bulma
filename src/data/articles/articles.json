@@ -1,6 +1,7 @@
 {
   "title": "home",
-  "articles": [{
+  "articles": [
+    {
       "id": "01",
       "en": "/",
       "it": "/"
@@ -139,6 +140,11 @@
       "id": "28",
       "en": "artworks/new-media/experimental",
       "it": "opere/new-media/experimental"
+    },
+    {
+      "id": 29,
+      "en": "tags/test/",
+      "it": "tags/test/"
     }
   ]
 }
